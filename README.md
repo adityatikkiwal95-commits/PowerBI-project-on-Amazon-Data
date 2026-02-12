@@ -14,19 +14,7 @@ This project features an end-to-end Power BI solution that transforms fragmented
 * **Customer Sentiment:** Discovered that high-rating items drive a **32% higher sales volume**.
 * **Operational Efficiency:** Improved decision-making clarity by **40%** through interactive drill-downs compared to raw data tables.
 
----
-
-## 📸 Dashboard Preview
-> *Replace these placeholders with your actual screenshots located in the /Dashboard_Screenshots/ folder*
-
-### 🟦 Sales Overview
-![Overview Dashboard](Dashboard_Screenshots/overview_dashboard.png)
-
-### 🟩 Category & Product Deep-Dive
-![Dataset Preview](Dashboard_Screenshots/dataset_preview.png)
-
----
-
+  
 ## 🛠️ Technical Implementation
 
 ### 1. Data Preparation (ETL)
@@ -48,10 +36,4 @@ Selected measures developed for this analysis:
 
 ---
 
-## 📂 Project Structure
-```text
-📁 Amazon-Sales-Analysis-Dashboard
-│── Amazon_Sales_Analysis.pbix       # Power BI Project File
-│── Amazon_Dataset.xlsx              # Source Data
-│── 📁 Dashboard_Screenshots/         # Image assets for README
-└── README.md                        # Project Documentation
+
